@@ -50,35 +50,32 @@ BST implementation with operations like insertion, deletion, and searching, emph
 ### 14. AVL Trees
 Self-balancing binary search trees — rotations (LL, RR, LR, RL) and height-balancing to maintain O(log n) operations.
 
-### 15. Search Trees
-Advanced search trees like 2-3 trees, 2-3-4 trees, and B-trees used in databases and file systems.
-
-### 16. Heap
+### 15. Heap
 Heap data structure — min-heap and max-heap, heapify, and heap operations used in priority queues and heap sort.
 
-### 17. Sorting Techniques
+### 16. Sorting Techniques
 Arranging data in order — bubble sort, insertion sort, selection sort, merge sort, quick sort, and heap sort with time/space analysis.
 
-### 18. Hashing Technique
+### 17. Hashing Technique
 Fast data retrieval using hash tables — collision resolution techniques like chaining, linear probing, quadratic probing, and double hashing.
 
-### 21. Graphs
+### 18. Graphs
 Non-linear data structures — representation using adjacency matrix and adjacency list, traversal algorithms (BFS, DFS), and minimum spanning tree algorithms.
 
-### 22. Recurrence Relations (RR)
+### 19. Recurrence Relations (RR)
 Mathematical techniques for solving recurrence relations, including substitution, recurrence tree, and Master's theorem.
 
-### 23. Asymptotic Notations
+### 20. Asymptotic Notations
 Big O, Big Omega, and Big Theta notations for analyzing and comparing algorithm efficiency.
 
-### 24. Divide and Conquer
+### 21. Divide and Conquer
 Algorithm design paradigm — breaking problems into subproblems, solving them recursively, and combining results (e.g., merge sort, quick sort).
 
-### 25. Greedy Method
+### 22. Greedy Method
 Algorithm design paradigm — making locally optimal choices at each step to find a global optimum (e.g., Prim's, Kruskal's, Dijkstra's).
 
-### 26. Dynamic Programming
+### 23. Dynamic Programming
 Optimization technique — solving complex problems by breaking them into overlapping subproblems and storing results to avoid recomputation.
 
-### 27. Backtracking
+### 24. Backtracking
 Algorithm design paradigm — building solutions incrementally and abandoning paths that fail to satisfy constraints (e.g., N-Queens, Sudoku).
