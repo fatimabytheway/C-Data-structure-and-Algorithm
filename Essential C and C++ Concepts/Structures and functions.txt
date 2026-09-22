@@ -1,0 +1,19 @@
+#include <iostream>
+
+struct Rectangle {
+    int length;
+    int breadth;
+};
+
+int calculateArea(Rectangle r) {
+    return r.length * r.breadth;
+}
+
+int main() {
+    Rectangle rect = {12, 4};
+    int area = calculateArea(rect);
+
+    std::cout << "Area calculated using structure and function: " << area << "\n";
+
+    return 0;
+}
