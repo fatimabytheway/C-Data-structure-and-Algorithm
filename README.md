@@ -11,61 +11,55 @@ A structured collection of Data Structures and Algorithms implemented in **C** a
 ### 1. Essential C and C++ Concepts
 A refresher on the core language features required for DSA, including arrays, structures, pointers, references, and functions.
 
-### 2. Required Setup for Programming
-Instructions and environment setup needed to compile and run C/C++ programs efficiently.
-
-### 3. Introduction
-An overview of how to analyze algorithms, focusing on time and space complexity.
-
-### 4. Recursion
+### 2. Recursion
 Understanding functions that call themselves — covering tail, head, tree, indirect, and nested recursion with practical examples.
 
-### 5. Arrays Representations
+### 3. Arrays Representations
 How arrays are stored in memory, including row-major and column-major mapping for multi-dimensional arrays.
 
-### 6. Array ADT
+### 4. Array ADT
 Implementing arrays as an Abstract Data Type (ADT) — covering insertion, deletion, searching, and merging operations.
 
-### 7. Strings
+### 5. Strings
 String representation and manipulation — length, comparison, reversal, palindrome checking, and pattern matching algorithms.
 
-### 8. Matrices
+### 6. Matrices
 Special matrix types such as diagonal, triangular, symmetric, and Toeplitz matrices, along with their efficient storage representations.
 
-### 9. Sparse Matrix and Polynomial Representation
+### 7. Sparse Matrix and Polynomial Representation
 Storing and manipulating sparse matrices and polynomials using efficient data structures to save memory.
 
-### 10. Linked List
+### 8. Linked List
 Dynamic linear data structures — singly, doubly, and circular linked lists with operations like insertion, deletion, reversal, and traversal.
 
-### 11. Sparse Matrix and Polynomial using Linked List
+### 19. Sparse Matrix and Polynomial using Linked List
 Implementing sparse matrices and polynomial arithmetic using linked lists for dynamic memory management.
 
-### 12. Stack
+### 10. Stack
 LIFO data structure — implementation using arrays and linked lists, plus applications like infix-to-postfix conversion and expression evaluation.
 
-### 13. Queues
+### 11. Queues
 FIFO data structure — linear queue, circular queue, priority queue, and deque with array and linked list implementations.
 
-### 14. Trees
+### 12. Trees
 Hierarchical data structures — binary trees, tree traversals (inorder, preorder, postorder, level order), and tree operations.
 
-### 15. Binary Search Trees
+### 13. Binary Search Trees
 BST implementation with operations like insertion, deletion, and searching, emphasizing the ordered property for efficient lookups.
 
-### 16. AVL Trees
+### 14. AVL Trees
 Self-balancing binary search trees — rotations (LL, RR, LR, RL) and height-balancing to maintain O(log n) operations.
 
-### 17. Search Trees
+### 15. Search Trees
 Advanced search trees like 2-3 trees, 2-3-4 trees, and B-trees used in databases and file systems.
 
-### 18. Heap
+### 16. Heap
 Heap data structure — min-heap and max-heap, heapify, and heap operations used in priority queues and heap sort.
 
-### 19. Sorting Techniques
+### 17. Sorting Techniques
 Arranging data in order — bubble sort, insertion sort, selection sort, merge sort, quick sort, and heap sort with time/space analysis.
 
-### 20. Hashing Technique
+### 18. Hashing Technique
 Fast data retrieval using hash tables — collision resolution techniques like chaining, linear probing, quadratic probing, and double hashing.
 
 ### 21. Graphs
